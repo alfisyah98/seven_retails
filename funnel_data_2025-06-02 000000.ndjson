@@ -1,0 +1,2 @@
+{"room_id": "1", "leads_date": "2025-06-09T08:00:00Z", "channel": "facebook_ads", "phone_number": "+628111223344", "booking_date": "2025-06-09T08:02:00Z", "transaction_date": "2025-06-09T08:10:00Z", "transaction_value": 750000, "execution_timestamp": "2025-06-02 00:00:00"}
+{"room_id": "2", "leads_date": "2025-06-09T09:00:00Z", "channel": "instagram_ads", "phone_number": "+628999887766", "booking_date": "2025-06-09T09:05:00Z", "transaction_date": "2025-06-09T09:15:00Z", "transaction_value": 1000000, "execution_timestamp": "2025-06-02 00:00:00"}
